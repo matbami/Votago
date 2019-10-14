@@ -1,0 +1,21 @@
+body,html{
+    background-image: url("blockchainimage1.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    height:100%;
+    
+}
+.text{
+    position: absolute;
+    color: white;
+    bottom:50%;
+    padding-left: 10%;
+   
+    
+}
+#button{
+    position: absolute;
+    
+    bottom:30%;
+    left: 10%;
+}
